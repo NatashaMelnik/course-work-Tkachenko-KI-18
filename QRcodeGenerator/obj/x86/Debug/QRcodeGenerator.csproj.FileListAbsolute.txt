@@ -1,0 +1,31 @@
+D:\My Documents\Visual Studio 2010\Projects\QRcodeGenerator\QRcodeGenerator\bin\Debug\QRcodeGenerator.exe
+D:\My Documents\Visual Studio 2010\Projects\QRcodeGenerator\QRcodeGenerator\bin\Debug\QRcodeGenerator.pdb
+D:\My Documents\Visual Studio 2010\Projects\QRcodeGenerator\QRcodeGenerator\obj\x86\Debug\QRcodeGenerator.Form1.resources
+D:\My Documents\Visual Studio 2010\Projects\QRcodeGenerator\QRcodeGenerator\obj\x86\Debug\QRcodeGenerator.Properties.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\QRcodeGenerator\QRcodeGenerator\obj\x86\Debug\QRcodeGenerator.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2010\Projects\QRcodeGenerator\QRcodeGenerator\obj\x86\Debug\QRcodeGenerator.exe
+D:\My Documents\Visual Studio 2010\Projects\QRcodeGenerator\QRcodeGenerator\obj\x86\Debug\QRcodeGenerator.pdb
+D:\My Documents\Visual Studio 2010\Projects\QRcodeGenerator\QRcodeGenerator\obj\x86\Debug\QRcodeGenerator.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\QRcodeGenerator\QRcodeGenerator\bin\Debug\QRcodeGenerator.exe.config
+D:\My Documents\Visual Studio 2010\Projects\QRcodeGenerator\QRcodeGenerator\bin\Debug\Spire.Barcode.dll
+D:\My Documents\Visual Studio 2010\Projects\QRcodeGenerator\QRcodeGenerator\bin\Debug\Spire.Barcode.xml
+C:\Users\Burning\Desktop\QRcodeGenerator\QRcodeGenerator\bin\Debug\QRcodeGenerator.exe.config
+C:\Users\Burning\Desktop\QRcodeGenerator\QRcodeGenerator\obj\x86\Debug\QRcodeGenerator.exe
+C:\Users\Burning\Desktop\QRcodeGenerator\QRcodeGenerator\obj\x86\Debug\QRcodeGenerator.pdb
+C:\Users\Burning\Desktop\QRcodeGenerator\QRcodeGenerator\bin\Debug\QRcodeGenerator.exe
+C:\Users\Burning\Desktop\QRcodeGenerator\QRcodeGenerator\bin\Debug\QRcodeGenerator.pdb
+C:\Users\Burning\Desktop\QRcodeGenerator\QRcodeGenerator\bin\Debug\Spire.Barcode.xml
+C:\Users\Burning\Desktop\QRcodeGenerator\QRcodeGenerator\obj\x86\Debug\QRcodeGenerator.Form1.resources
+C:\Users\Burning\Desktop\QRcodeGenerator\QRcodeGenerator\obj\x86\Debug\QRcodeGenerator.Properties.Resources.resources
+C:\Users\Burning\Desktop\QRcodeGenerator\QRcodeGenerator\obj\x86\Debug\QRcodeGenerator.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\QRcodeGenerator\QRcodeGenerator\bin\Debug\QRcodeGenerator.exe.config
+C:\Users\Administrator\Desktop\QRcodeGenerator\QRcodeGenerator\obj\x86\Debug\QRcodeGenerator.exe
+C:\Users\Administrator\Desktop\QRcodeGenerator\QRcodeGenerator\obj\x86\Debug\QRcodeGenerator.pdb
+C:\Users\Administrator\Desktop\QRcodeGenerator\QRcodeGenerator\bin\Debug\QRcodeGenerator.exe
+C:\Users\Administrator\Desktop\QRcodeGenerator\QRcodeGenerator\bin\Debug\QRcodeGenerator.pdb
+C:\Users\Administrator\Desktop\QRcodeGenerator\QRcodeGenerator\bin\Debug\Spire.Barcode.dll
+C:\Users\Administrator\Desktop\QRcodeGenerator\QRcodeGenerator\bin\Debug\Spire.Barcode.xml
+C:\Users\Administrator\Desktop\QRcodeGenerator\QRcodeGenerator\obj\x86\Debug\QRcodeGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\QRcodeGenerator\QRcodeGenerator\obj\x86\Debug\QRcodeGenerator.Form1.resources
+C:\Users\Administrator\Desktop\QRcodeGenerator\QRcodeGenerator\obj\x86\Debug\QRcodeGenerator.Properties.Resources.resources
+C:\Users\Administrator\Desktop\QRcodeGenerator\QRcodeGenerator\obj\x86\Debug\QRcodeGenerator.csproj.GenerateResource.Cache
